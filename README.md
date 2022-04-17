@@ -1,0 +1,2 @@
+# zshwindows
+test zsh
